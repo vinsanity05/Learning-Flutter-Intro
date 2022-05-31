@@ -1,16 +1,8 @@
-# learningdemo1
+# Learning Flutter Intro
 
-A new Flutter project.
+This is just a starter on how to load the demo project of Flutter. This course essentially helped me download Android Studio, Xcode and install flutter.
 
-## Getting Started
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60824509/171191298-5478120d-19b7-48fe-891b-639010f6ac57.png" width="150" height="300" />
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
